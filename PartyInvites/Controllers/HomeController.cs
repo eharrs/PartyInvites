@@ -11,7 +11,7 @@ namespace PartyInvites.Controllers
         // GET: Home
         public string Index()
         {
-            return "Hello World";
+            return "Hello World 2";
         }
     }
 }
